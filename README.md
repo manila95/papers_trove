@@ -1,7 +1,5 @@
 # paper_trove
 
---------
-
 
 ## State Estimation
 
