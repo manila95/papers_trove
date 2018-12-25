@@ -14,3 +14,11 @@
 - [Towards Monocular Vision based Obstacle
 Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.pdf) - **(pending)**
 
+
+
+
+
+
+## References
+
+- [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html?fbclid=IwAR3j3vHa7FlMWuH8As4JogbNDhyRKHWiaU3FgFEXSH35yj8FmOPHuYbGFtk)
