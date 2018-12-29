@@ -8,6 +8,11 @@
 - [Global Pose Estimation with an Attention-based Recurrent Network](https://arxiv.org/pdf/1802.06857.pdf) - **(pending)**
 
 
+## Neural Networks (Theory)
+
+- [Why does deep and cheap learning work so well?∗](https://arxiv.org/pdf/1608.08225.pdf) - **(pending)**
+
+
 
 ## Reinforcement Learning (Theory)
 
