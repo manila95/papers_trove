@@ -26,6 +26,12 @@
 
 - [On Learning Intrinsic Rewards for Policy Gradient Methods](https://arxiv.org/pdf/1804.06459.pdf) - **(20/12/2018)**
 
+- [Potential-based shaping in model-based reinforcement learning.](https://www.aaai.org/Papers/AAAI/2008/AAAI08-096.pdf) - **(pending)**
+
+- [Theoretical Considerations Of Potential-Based Reward Shaping For Multi-Agent Systems](http://www.aamas-conference.org/Proceedings/aamas2011/papers/D1_G45.pdf) - **(pending)**
+
+- [THEORY AND APPLICATION OF REWARD SHAPING IN REINFORCEMENT LEARNING](https://core.ac.uk/download/pdf/4820036.pdf) - **(pending)**
+
 ## Reinforcement Learning (Application: Robotics)
 
 - [Playing Doom with SLAM-Augmented Deep Reinforcement Learning](https://arxiv.org/pdf/1612.00380.pdf) - **(18/12/2018)**
