@@ -30,7 +30,13 @@
 
 - [Theoretical Considerations Of Potential-Based Reward Shaping For Multi-Agent Systems](http://www.aamas-conference.org/Proceedings/aamas2011/papers/D1_G45.pdf) - **(pending)**
 
+- [Dynamic Potential-Based Reward Shaping](http://www.ifaamas.org/Proceedings/aamas2012/papers/2C_3.pdf) - **(pending)**
+
+- [Potential-Based Difference Rewards for Multiagent Reinforcement Learning](http://web.engr.oregonstate.edu/~ktumer/publications/files/tumer-devlin_aamas14.pdf) - **(pending)**
+
 - [THEORY AND APPLICATION OF REWARD SHAPING IN REINFORCEMENT LEARNING](https://core.ac.uk/download/pdf/4820036.pdf) - **(pending)**
+
+
 
 ## Reinforcement Learning (Application: Robotics)
 
