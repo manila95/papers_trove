@@ -48,7 +48,7 @@ Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.
 
 ## Autonomous Driving
 
-- [CARLA: An Open Urban Driving Simulator](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf) - **(pending)**
+- [CARLA: An Open Urban Driving Simulator](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf) - **(08/01/2019)**
 
 - [Autonomous Braking System via Deep Reinforcement Learning](https://arxiv.org/pdf/1702.02302.pdf) - **(18/12/2018)**
 
