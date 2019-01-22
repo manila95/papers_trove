@@ -43,7 +43,7 @@
 - [Playing Doom with SLAM-Augmented Deep Reinforcement Learning](https://arxiv.org/pdf/1612.00380.pdf) - **(18/12/2018)**
 
 - [Towards Monocular Vision based Obstacle
-Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.pdf) - **(pending)**
+Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.pdf) - **(22/01/19)**
 
 
 ## Autonomous Driving(with SLAM)
