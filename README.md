@@ -22,9 +22,9 @@
 
 - [Memory-based control with recurrent neural networks](http://rll.berkeley.edu/deeprlworkshop/papers/rdpg.pdf) - **(27/12/2018)** 
 
-- [REINFORCEMENT LEARNING WITH UNSUPERVISED AUXILIARY TASKS](https://arxiv.org/pdf/1611.05397.pdf) - **(pending)**
+- [Reinforcement learning with unsupervised auxiliary tasks](https://arxiv.org/pdf/1611.05397.pdf) - **(pending)**
 
-- [NOISY NETWORKS FOR EXPLORATION](https://arxiv.org/pdf/1706.10295.pdf) - **(pending)**
+- [Noisy Networks for Exploration](https://arxiv.org/pdf/1706.10295.pdf) - **(pending)**
 
 - [Learning Continuous Control Policies by Stochastic Value Gradients](https://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf) - **(pending)**
 
@@ -38,7 +38,7 @@
 
 - [Potential-Based Difference Rewards for Multiagent Reinforcement Learning](http://web.engr.oregonstate.edu/~ktumer/publications/files/tumer-devlin_aamas14.pdf) - **(pending)**
 
-- [THEORY AND APPLICATION OF REWARD SHAPING IN REINFORCEMENT LEARNING](https://core.ac.uk/download/pdf/4820036.pdf) - **(pending)**
+- [Theory and Application of Reward Shaping in Reinforcement Learning](https://core.ac.uk/download/pdf/4820036.pdf) - **(pending)**
 
 
 
