@@ -22,6 +22,10 @@
 
 - [Memory-based control with recurrent neural networks](http://rll.berkeley.edu/deeprlworkshop/papers/rdpg.pdf) - **(27/12/2018)** 
 
+- [REINFORCEMENT LEARNING WITH UNSUPERVISED AUXILIARY TASKS](https://arxiv.org/pdf/1611.05397.pdf) - **(pending)**
+
+- [NOISY NETWORKS FOR EXPLORATION](https://arxiv.org/pdf/1706.10295.pdf) - **(pending)**
+
 - [Learning Continuous Control Policies by Stochastic Value Gradients](https://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf) - **(pending)**
 
 - [On Learning Intrinsic Rewards for Policy Gradient Methods](https://arxiv.org/pdf/1804.06459.pdf) - **(20/12/2018)**
