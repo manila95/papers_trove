@@ -73,4 +73,6 @@ Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.
 
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html?fbclid=IwAR3j3vHa7FlMWuH8As4JogbNDhyRKHWiaU3FgFEXSH35yj8FmOPHuYbGFtk)
 
+- [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 
