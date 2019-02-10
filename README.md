@@ -49,6 +49,10 @@
 - [Towards Monocular Vision based Obstacle
 Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.pdf) - **(22/01/19)**
 
+## Robotic Vision 
+
+- [Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images](http://saurabhg.web.illinois.edu/pdfs/gupta2013perceptual.pdf) - **(pending)**
+
 
 ## Autonomous Driving(with SLAM)
 
