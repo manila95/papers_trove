@@ -51,7 +51,7 @@ Avoidance through Deep Reinforcement Learning](https://arxiv.org/pdf/1706.09829.
 
 ## Robotic Vision 
 
-- [Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images](http://saurabhg.web.illinois.edu/pdfs/gupta2013perceptual.pdf) - **(pending)**
+- [Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images](http://saurabhg.web.illinois.edu/pdfs/gupta2013perceptual.pdf) [- [notes](papers/Gupta_Perceptual_Organization_and_2013_CVPR_paper.pdf)]- **(11/02/19)**
 
 
 ## Autonomous Driving(with SLAM)
