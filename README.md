@@ -70,7 +70,7 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 
 ## Unsupervised Learning
 
-- **Mining on Manifolds: Metric Learning without Labels** [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Iscen_Mining_on_Manifolds_CVPR_2018_paper.pdf)] - **(pending)**
+- **Mining on Manifolds: Metric Learning without Labels** [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Iscen_Mining_on_Manifolds_CVPR_2018_paper.pdf)] - **(24/03/19)**
 
 
 ## References
