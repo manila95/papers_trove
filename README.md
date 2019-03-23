@@ -55,6 +55,8 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 
 - **Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images** [[pdf](http://saurabhg.web.illinois.edu/pdfs/gupta2013perceptual.pdf)] [[notes](papers/Gupta_Perceptual_Organization_and_2013_CVPR_paper.pdf)] - **(11/02/19)**
 
+- **Unsupervised Learning of Depth and Ego-Motion from Video** [[pdf](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf)] [[slides](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)] - **(pending)**
+
 
 ## Autonomous Driving(with SLAM)
 
