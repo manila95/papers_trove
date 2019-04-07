@@ -18,6 +18,8 @@
 
 ## Reinforcement Learning (Theory)
 
+- **Manifold Embeddings for Model-Based Reinforcement Learning under Partial Observability** [[pdf](https://papers.nips.cc/paper/3640-manifold-embeddings-for-model-based-reinforcement-learning-under-partial-observability.pdf)] - **(pending)**
+
 - **Proximal Policy Optimization Algorithms** [[pdf](https://arxiv.org/pdf/1707.06347.pdf)] - **(26/12/2018)**
 
 - **Prioritized Experience Replay** [[pdf](https://arxiv.org/pdf/1511.05952.pdf)] - **(pending)**
@@ -75,6 +77,12 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 ## Unsupervised Learning
 
 - **Mining on Manifolds: Metric Learning without Labels** [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Iscen_Mining_on_Manifolds_CVPR_2018_paper.pdf)] - **(24/03/19)**
+
+
+## Tutorials and Workshops
+
+- **Learning Representation & Behavior: Manifold and Spectral Methods for Markov Decision Processes and Reinforcement Learning** [[pdf](https://people.cs.umass.edu/~mahadeva/icml06-tutorial/icml2006-tutorial-pdf-final.pdf)] [[full_theory](http://www-all.cs.umass.edu/pubs/2009/mahadevan_09.pdf)] - **(pending)
+
 
 
 ## References
