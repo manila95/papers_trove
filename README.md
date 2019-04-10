@@ -18,6 +18,8 @@
 
 ## Reinforcement Learning (Theory)
 
+- **Reinforcement Learning with Attention thatWorks: A Self-Supervised Approach** [[pdf](https://arxiv.org/pdf/1904.03367.pdf)] - **(pending)**
+
 - **Manifold Embeddings for Model-Based Reinforcement Learning under Partial Observability** [[pdf](https://papers.nips.cc/paper/3640-manifold-embeddings-for-model-based-reinforcement-learning-under-partial-observability.pdf)] - **(pending)**
 
 - **Proximal Policy Optimization Algorithms** [[pdf](https://arxiv.org/pdf/1707.06347.pdf)] - **(26/12/2018)**
