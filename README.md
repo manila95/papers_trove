@@ -18,6 +18,8 @@
 
 ## Reinforcement Learning (Theory)
 
+- **Concrete Problems in AI safety** [[pdf](https://arxiv.org/pdf/1606.06565.pdf)] - **(pending)** -(thesis)
+
 - **Reinforcement Learning with Attention thatWorks: A Self-Supervised Approach** [[pdf](https://arxiv.org/pdf/1904.03367.pdf)] - **(pending)**
 
 - **Manifold Embeddings for Model-Based Reinforcement Learning under Partial Observability** [[pdf](https://papers.nips.cc/paper/3640-manifold-embeddings-for-model-based-reinforcement-learning-under-partial-observability.pdf)] - **(pending)**
