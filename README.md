@@ -52,6 +52,8 @@
 
 ## Reinforcement Learning (Application: Robotics)
 
+- **CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving** [[pdf](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiaodan_Liang_CIRL_Controllable_Imitative_ECCV_2018_paper.pdf)] - **(pending)**
+
 - **Playing Doom with SLAM-Augmented Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1612.00380.pdf)] - **(18/12/2018)**
 
 - **Towards Monocular Vision based Obstacle
