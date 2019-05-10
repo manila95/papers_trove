@@ -16,6 +16,8 @@
 
 - **Efficient Classification for Additive Kernel SVMs** [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165310)] - **(pending)**
 
+- **Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly** [[pdf](https://arxiv.org/pdf/1707.00600.pdf) - **(pending)**
+
 ## Reinforcement Learning (Theory)
 
 - **Concrete Problems in AI safety** [[pdf](https://arxiv.org/pdf/1606.06565.pdf)] - **(pending)** -(thesis)
