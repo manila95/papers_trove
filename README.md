@@ -101,3 +101,12 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 - **Advanced Deep Learning & Reinforcement Learning** [[link](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)]
 
 
+
+## Internship and PhD prospects (Project Based)
+
+- **TUM Neurorobotics** [[link](http://www.neurorobotics.net/jobs.html)]
+
+- **TUM Neurorobotics- Reinforcement Learning — A comparison Study with Spike and Rate Based Neurons** [[pdf](https://hbpneurorobotics.files.wordpress.com/2019/03/reinforcment-learning-keras-spike.pdf)] 
+
+- **TUM Neurorobotics- Deep Spiking Q-Networks** [[pdf](https://hbpneurorobotics.files.wordpress.com/2019/03/deep-spiking-q-networks.pdf)]
+
