@@ -104,6 +104,7 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 
 - **Advanced Deep Learning & Reinforcement Learning** [[link](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)]
 
+- **Applications of Reinforcement Learning (Medium)** [[link](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
 
 
 ## Internship and PhD prospects (Project Based)
