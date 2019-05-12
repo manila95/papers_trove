@@ -20,6 +20,8 @@
 
 ## Reinforcement Learning (Theory)
 
+- **DARLA: Improving Zero-Shot Transfer in Reinforcement Learning** [[pdf](http://proceedings.mlr.press/v70/higgins17a/higgins17a.pdf)] - **(pending)**
+
 - **Concrete Problems in AI safety** [[pdf](https://arxiv.org/pdf/1606.06565.pdf)] - **(pending)** -(thesis)
 
 - **Reinforcement Learning with Attention thatWorks: A Self-Supervised Approach** [[pdf](https://arxiv.org/pdf/1904.03367.pdf)] - **(pending)**
