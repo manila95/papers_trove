@@ -20,6 +20,8 @@
 
 ## Reinforcement Learning (Theory)
 
+- **Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?** [[pdf](https://arxiv.org/pdf/1811.02553.pdf)] [[Talk](https://www.youtube.com/watch?v=7J2zajQe7lw)] - **(pending)**
+
 - **DARLA: Improving Zero-Shot Transfer in Reinforcement Learning** [[pdf](http://proceedings.mlr.press/v70/higgins17a/higgins17a.pdf)] - **(pending)**
 
 - **Concrete Problems in AI safety** [[pdf](https://arxiv.org/pdf/1606.06565.pdf)] - **(pending)** -(thesis)
