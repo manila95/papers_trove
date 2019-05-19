@@ -20,13 +20,15 @@
 
 ## Reinforcement Learning (Theory)
 
+- **TRUNCATED HORIZON POLICY SEARCH: COMBINING REINFORCEMENT LEARNING & IMITATION LEARNING** [[pdf](https://arxiv.org/pdf/1805.11240.pdf)] - **(pending)**
+
 - **Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?** [[pdf](https://arxiv.org/pdf/1811.02553.pdf)] [[Talk](https://www.youtube.com/watch?v=7J2zajQe7lw)] - **(pending)**
 
 - **DARLA: Improving Zero-Shot Transfer in Reinforcement Learning** [[pdf](http://proceedings.mlr.press/v70/higgins17a/higgins17a.pdf)] - **(pending)**
 
 - **Concrete Problems in AI safety** [[pdf](https://arxiv.org/pdf/1606.06565.pdf)] - **(pending)** -(thesis)
 
-- **Reinforcement Learning with Attention thatWorks: A Self-Supervised Approach** [[pdf](https://arxiv.org/pdf/1904.03367.pdf)] - **(pending)**
+- **Reinforcement Learning with Attention that Works: A Self-Supervised Approach** [[pdf](https://arxiv.org/pdf/1904.03367.pdf)] - **(pending)**
 
 - **Manifold Embeddings for Model-Based Reinforcement Learning under Partial Observability** [[pdf](https://papers.nips.cc/paper/3640-manifold-embeddings-for-model-based-reinforcement-learning-under-partial-observability.pdf)] - **(pending)**
 
@@ -62,12 +64,13 @@
 
 - **Playing Doom with SLAM-Augmented Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1612.00380.pdf)] - **(18/12/2018)**
 
-- **Towards Monocular Vision based Obstacle
-Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1706.09829.pdf)] - **(22/01/19)**
+- **Towards Monocular Vision based Obstacle Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1706.09829.pdf)] - **(22/01/19)**
 
 ## Robotic Vision 
 
-- **
+- **Orthographic Feature Transform for Monocular 3D Object Detection** [[pdf](https://arxiv.org/pdf/1811.08188.pdf)] - **(17/05/19)**
+
+- **Multi-Level Fusion based 3D Object Detection from Monocular Images** [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Multi-Level_Fusion_Based_CVPR_2018_paper.pdf)] - **(pending)**
 
 - **Digging Into Self-Supervised Monocular Depth Estimation** [[pdf](https://arxiv.org/pdf/1806.01260.pdf)] [[code](https://github.com/nianticlabs/monodepth2)] - **(18/05/19)**
 
@@ -103,6 +106,10 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 ## Tutorials and Workshops
 
 - **Learning Representation & Behavior: Manifold and Spectral Methods for Markov Decision Processes and Reinforcement Learning** [[pdf](https://people.cs.umass.edu/~mahadeva/icml06-tutorial/icml2006-tutorial-pdf-final.pdf)] [[full_theory](http://www-all.cs.umass.edu/pubs/2009/mahadevan_09.pdf)] - **(pending)
+
+## Relevant Competitions
+
+- **MineRL** [[link](http://minerl.io/dataset/)]
 
 
 
