@@ -67,6 +67,10 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 
 ## Robotic Vision 
 
+- **
+
+- **Digging Into Self-Supervised Monocular Depth Estimation** [[pdf](https://arxiv.org/pdf/1806.01260.pdf)] [[code](https://github.com/nianticlabs/monodepth2)] - **(18/05/19)**
+
 - **Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images** [[pdf](http://saurabhg.web.illinois.edu/pdfs/gupta2013perceptual.pdf)] [[notes](papers/Gupta_Perceptual_Organization_and_2013_CVPR_paper.pdf)] - **(11/02/19)**
 
 - **Unsupervised Learning of Depth and Ego-Motion from Video** [[pdf](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf)] [[slides](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)] - **(20/04/19)**
@@ -81,6 +85,8 @@ Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/170
 
 
 ## Autonomous Driving
+
+- **Model-free Deep Reinforcement Learning for Urban Autonomous Driving** [[pdf](https://arxiv.org/pdf/1904.09503.pdf)] - **(pending)**
 
 - **CARLA: An Open Urban Driving Simulator** [[pdf](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)] - **(08/01/2019)**
 
