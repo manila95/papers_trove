@@ -83,6 +83,8 @@
 
 ## Autonomous Driving(with SLAM)
 
+- **Monocular Plan View Networks for Autonomous Driving** [[pdf](https://arxiv.org/pdf/1905.06937.pdf)] - **(pending)**
+
 - **Visual SLAM for Automated Driving: Exploring the Applications of Deep Learning** [[pdf](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Milz_Visual_SLAM_for_CVPR_2018_paper.pdf)] - **(pending)**
 
 
