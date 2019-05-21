@@ -60,6 +60,8 @@
 
 ## Reinforcement Learning (Application: Robotics)
 
+- **Learning Unmanned Aerial Vehicle Control for Autonomous Target Following** [[pdf](https://www.ijcai.org/proceedings/2018/0685.pdf)] - **(21/05/19)**
+
 - **CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving** [[pdf](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiaodan_Liang_CIRL_Controllable_Imitative_ECCV_2018_paper.pdf)] - **(pending)**
 
 - **Playing Doom with SLAM-Augmented Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1612.00380.pdf)] - **(18/12/2018)**
@@ -67,6 +69,8 @@
 - **Towards Monocular Vision based Obstacle Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1706.09829.pdf)] - **(22/01/19)**
 
 ## Robotic Vision 
+
+- **Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving** [[pdf](https://arxiv.org/pdf/1807.02062.pdf)] - **(pending)**
 
 - **Orthographic Feature Transform for Monocular 3D Object Detection** [[pdf](https://arxiv.org/pdf/1811.08188.pdf)] - **(17/05/19)**
 
