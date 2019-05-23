@@ -118,6 +118,10 @@
 - **MineRL** [[link](http://minerl.io/dataset/)]
 
 
+## Dataset/Platforms
+
+- **Arena: A General Evaluation Platform and Building Toolkit for Multi-Agent Intelligence** [[pdf](https://arxiv.org/pdf/1905.08085.pdf)] - **(pending)**
+
 
 ## References
 
