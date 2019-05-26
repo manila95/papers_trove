@@ -1,6 +1,20 @@
 # paper_trove
 
 
+- [State Estimation](#state-estimation)
+- [Neural Networks](#neural-networks)
+- [Machine Learning](#machine-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Reinforcement Learning **Robotics**](#reinforcement-learning-robotics)
+- [Robotic Vision](#robotic-vision)
+- [Autonomous Driving](#autonomous-driving)
+- [Autonomous Driving **SLAM**](#autonomous-driving-slam)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Tutorials and Workshops](#tutorials-and-workshops)
+- [Relevant Competitions](#relevant-competitions)
+- [Dataset/Platforms/Simulators](#datasets-and-platforms)
+- [References](#references)
+
 ## State Estimation
 
 - **A micro Lie theory for state estimation in robotics** [[pdf](https://arxiv.org/pdf/1812.01537.pdf)] - **(14/12/2018)**
@@ -8,19 +22,19 @@
 - **Global Pose Estimation with an Attention-based Recurrent Network** [[pdf](https://arxiv.org/pdf/1802.06857.pdf)] - **(pending)**
 
 
-## Neural Networks (Theory)
+## Neural Networks
 
 - **SPECTRAL INFERENCE NETWORKS:UNIFYING DEEP AND SPECTRAL LEARNING** [[pdf](https://arxiv.org/pdf/1806.02215v2.pdf)] - **(pending)**
 
 - **Why does deep and cheap learning work so well?∗** [[pdf](https://arxiv.org/pdf/1608.08225.pdf)] - **(pending)**
 
-## Machine Learning (Theory)
+## Machine Learning
 
 - **Efficient Classification for Additive Kernel SVMs** [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165310)] - **(pending)**
 
 - **Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly** [[pdf](https://arxiv.org/pdf/1707.00600.pdf)] - **(pending)**
 
-## Reinforcement Learning (Theory)
+## Reinforcement Learning
 
 - **A Generalized Path Integral Control Approachto Reinforcement Learning** [[pdf](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf)] - **(pending)**
 
@@ -68,7 +82,7 @@
 
 
 
-## Reinforcement Learning (Application: Robotics)
+## Reinforcement Learning Robotics
 
 - **A Reinforcement Learning Approach to the View Planning Problem** [[pdf](https://arxiv.org/pdf/1610.06204.pdf)] - **(pending)**
 
@@ -109,7 +123,7 @@
 - **3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare** [[pdf](http://abhijitkundu.info/Publications/3DRCNN_CVPR18.pdf)] - **(pending)**
 
 
-## Autonomous Driving(with SLAM)
+## Autonomous Driving SLAM
 
 - **Monocular Plan View Networks for Autonomous Driving** [[pdf](https://arxiv.org/pdf/1905.06937.pdf)] - **(pending)**
 
@@ -142,7 +156,7 @@
 - **MineRL** [[link](http://minerl.io/dataset/)]
 
 
-## Dataset/Platforms
+## Datasets and Platforms
 
 - **Arena: A General Evaluation Platform and Building Toolkit for Multi-Agent Intelligence** [[pdf](https://arxiv.org/pdf/1905.08085.pdf)] - **(pending)**
 
