@@ -10,15 +10,25 @@
 
 ## Neural Networks (Theory)
 
+- **SPECTRAL INFERENCE NETWORKS:UNIFYING DEEP AND SPECTRAL LEARNING** [[pdf](https://arxiv.org/pdf/1806.02215v2.pdf)] - **(pending)**
+
 - **Why does deep and cheap learning work so well?∗** [[pdf](https://arxiv.org/pdf/1608.08225.pdf)] - **(pending)**
 
 ## Machine Learning (Theory)
 
 - **Efficient Classification for Additive Kernel SVMs** [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6165310)] - **(pending)**
 
-- **Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly** [[pdf](https://arxiv.org/pdf/1707.00600.pdf) - **(pending)**
+- **Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly** [[pdf](https://arxiv.org/pdf/1707.00600.pdf)] - **(pending)**
 
 ## Reinforcement Learning (Theory)
+
+- **A Generalized Path Integral Control Approachto Reinforcement Learning** [[pdf](http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf)] - **(pending)**
+
+ - **Manifold Embeddings for Model-BasedReinforcement Learning under Partial Observability** [[pdf](https://papers.nips.cc/paper/3640-manifold-embeddings-for-model-based-reinforcement-learning-under-partial-observability.pdf)] - **(pending)**
+
+- **Model Based Reinforcement Learning for Atari** [[pdf](https://arxiv.org/pdf/1903.00374.pdf)] - **(pending)**
+
+- **Randomized Prior Functionsfor Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1806.03335.pdf)] - **(pending)**
 
 - **TRUNCATED HORIZON POLICY SEARCH: COMBINING REINFORCEMENT LEARNING & IMITATION LEARNING** [[pdf](https://arxiv.org/pdf/1805.11240.pdf)] - **(pending)**
 
@@ -60,6 +70,12 @@
 
 ## Reinforcement Learning (Application: Robotics)
 
+- **A Reinforcement Learning Approach to the View Planning Problem** [[pdf](https://arxiv.org/pdf/1610.06204.pdf)] - **(pending)**
+
+- **PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings** [[pdf](https://arxiv.org/pdf/1905.01296.pdf)] [[link](https://sites.google.com/view/precog?fbclid=IwAR2sI1Md7IhqBV9LG9tRveUUN0llV2lv2IHfNWDRDJgu96gs2DDQWYmJ_JA)]- **(pending)**
+
+- **Unsupervised Video Object Segmentation for DeepReinforcement Learning** [[pdf](https://arxiv.org/pdf/1805.07780v1.pdf)] - **(pending)**
+
 - **Learning Unmanned Aerial Vehicle Control for Autonomous Target Following** [[pdf](https://www.ijcai.org/proceedings/2018/0685.pdf)] - **(21/05/19)**
 
 - **CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving** [[pdf](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiaodan_Liang_CIRL_Controllable_Imitative_ECCV_2018_paper.pdf)] - **(pending)**
@@ -69,6 +85,14 @@
 - **Towards Monocular Vision based Obstacle Avoidance through Deep Reinforcement Learning** [[pdf](https://arxiv.org/pdf/1706.09829.pdf)] - **(22/01/19)**
 
 ## Robotic Vision 
+
+
+
+- **A  General  Pipeline  for  3D  Detection  of  Vehicles** [[pdf](https://arxiv.org/pdf/1803.00387.pdf)] - **(pending)**
+
+- **UnDeepVO : Monocular Visual Odometry through Unsupervised Deep Learning** [[pdf](https://arxiv.org/pdf/1709.06841.pdf)] - **(pending)**
+
+- **Unsupervised Adversarial Depth Estimation using Cycled Generative Networks** [[pdf](https://arxiv.org/pdf/1807.10915v1.pdf)]
 
 - **Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving** [[pdf](https://arxiv.org/pdf/1807.02062.pdf)] - **(pending)**
 
