@@ -101,6 +101,9 @@
 ## Robotic Vision 
 
 
+- **Multi-Task Self-Supervised Object Detection via Recycling of Bounding Box Annotations** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Multi-Task_Self-Supervised_Object_Detection_via_Recycling_of_Bounding_Box_Annotations_CVPR_2019_paper.pdf)]
+
+- **Bounding Box Regression With Uncertainty for Accurate Object Detection** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bounding_Box_Regression_With_Uncertainty_for_Accurate_Object_Detection_CVPR_2019_paper.pdf)] 
 
 - **A  General  Pipeline  for  3D  Detection  of  Vehicles** [[pdf](https://arxiv.org/pdf/1803.00387.pdf)] - **(pending)**
 
