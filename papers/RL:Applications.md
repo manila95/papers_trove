@@ -8,3 +8,7 @@
 - **ChauffeurNet:  Learning to Driveby Imitating the Best and Synthesizing the Worst** [[pdf](https://arxiv.org/pdf/1812.03079v1.pdf)] - **(pending)**
 
 - **On Offline Evaluation of Vision-based Driving Models** [[pdf](https://arxiv.org/pdf/1809.04843v1.pdf)] - **(pending)**
+
+- **Query-Efficient Imitation Learning forEnd-to-End Autonomous Driving** [[pdf](https://arxiv.org/pdf/1605.06450v1.pdf)] - **(pending)**
+
+- **Conditional Affordance Learning for Driving in Urban Environments** [[pdf](https://arxiv.org/pdf/1806.06498v3.pdf)] - **(pending)**
