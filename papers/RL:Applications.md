@@ -12,3 +12,8 @@
 - **Query-Efficient Imitation Learning forEnd-to-End Autonomous Driving** [[pdf](https://arxiv.org/pdf/1605.06450v1.pdf)] - **(pending)**
 
 - **Conditional Affordance Learning for Driving in Urban Environments** [[pdf](https://arxiv.org/pdf/1806.06498v3.pdf)] - **(pending)**
+
+
+### Unsupervised Learning + RL
+
+- **Unsupervised Learning of Object Keypoints for Perception and Control** [[pdf](https://arxiv.org/pdf/1906.11883.pdf)] - **(pending)**
