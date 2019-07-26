@@ -152,6 +152,14 @@
 
 - **Unsupervised Learning via Meta-Learning** [[pdf](https://arxiv.org/abs/1810.02334?fbclid=IwAR3UI7ylORmCbKyEN0wRKqaAEOMZ5RkYL2ksp3RTN-noAqWmgkg0s4-MbK8)] - **(pending)**
 
+
+## Blogposts
+
+- **Introducing PlaNet: A Deep Planning Network for Reinforcement Learning** [[link](https://ai.googleblog.com/2019/02/introducing-planet-deep-planning.html?m=1&fbclid=IwAR1SMen62UD9YI7KU7WET8mThf_5j9wLI3ajt6Ks5p0uv0lQWyUm4SOZO34)] 
+
+- **Stacked Capsule Autoencoders** [[link](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html?fbclid=IwAR3MLAG1_XDKDRNMhegjhp_zZkxBfRuuUUJ4FLfn4YsJxHw4Rmm49sM5Zno)] 
+
+
 ## Tutorials and Workshops
 
 - **Learning Representation & Behavior: Manifold and Spectral Methods for Markov Decision Processes and Reinforcement Learning** [[pdf](https://people.cs.umass.edu/~mahadeva/icml06-tutorial/icml2006-tutorial-pdf-final.pdf)] [[full_theory](http://www-all.cs.umass.edu/pubs/2009/mahadevan_09.pdf)] - **(pending)
