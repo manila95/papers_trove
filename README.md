@@ -24,6 +24,8 @@
 
 ## Neural Networks
 
+- **A Comprehensive Survey on Graph Neural Networks** [[pdf](https://arxiv.org/pdf/1901.00596.pdf)] - **(pending)**
+
 - **SPECTRAL INFERENCE NETWORKS:UNIFYING DEEP AND SPECTRAL LEARNING** [[pdf](https://arxiv.org/pdf/1806.02215v2.pdf)] - **(pending)**
 
 - **Why does deep and cheap learning work so well?∗** [[pdf](https://arxiv.org/pdf/1608.08225.pdf)] - **(pending)**
