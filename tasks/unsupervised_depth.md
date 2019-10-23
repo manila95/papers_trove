@@ -15,7 +15,7 @@
 
 - **Learning the Depths of Moving People by Watching Frozen People** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_the_Depths_of_Moving_People_by_Watching_Frozen_People_CVPR_2019_paper.pdf)] [[code](https://github.com/google/mannequinchallenge)]
 
-- **Recurrent MVSNet for High-Resolution Multi-View Stereo Depth Inference ** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf)] [[code](https://github.com/YoYo000/MVSNet)] 
+- **Recurrent MVSNet for High-Resolution Multi-View Stereo Depth Inference** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf)] [[code](https://github.com/YoYo000/MVSNet)] 
 
 - **Recurrent Neural Network for (Un-)Supervised Learning of Monocular Video Visual Odometry and Depth** [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Recurrent_Neural_Network_for_Un-Supervised_Learning_of_Monocular_Video_Visual_CVPR_2019_paper.pdf)] [[code](https://github.com/wrlife/RNN_depth_pose)]
 
