@@ -184,6 +184,8 @@
 
 - **Applications of Reinforcement Learning (Medium)** [[link](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
 
+- **RL materials** [[link](https://handong1587.github.io/deep_learning/2015/10/09/rl.html)]
+
 
 ## Internship and PhD prospects (Project Based)
 
@@ -192,4 +194,5 @@
 - **TUM Neurorobotics- Reinforcement Learning — A comparison Study with Spike and Rate Based Neurons** [[pdf](https://hbpneurorobotics.files.wordpress.com/2019/03/reinforcment-learning-keras-spike.pdf)] 
 
 - **TUM Neurorobotics- Deep Spiking Q-Networks** [[pdf](https://hbpneurorobotics.files.wordpress.com/2019/03/deep-spiking-q-networks.pdf)]
+
 
