@@ -187,6 +187,9 @@
 - **RL materials** [[link](https://handong1587.github.io/deep_learning/2015/10/09/rl.html)]
 
 
+- **Gaussian Processes & Kernel Methods (University of Cambridge)** [[link](http://mlg.eng.cam.ac.uk/pub/topics/)]
+
+
 ## Internship and PhD prospects (Project Based)
 
 - **TUM Neurorobotics** [[link](http://www.neurorobotics.net/jobs.html)]
